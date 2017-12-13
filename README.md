@@ -1,3 +1,3 @@
-# iCare_Codes
+# SmartSteer
 
-Codes for Hardware Modeling-2016
+Codes and data for SmartSteer - a smart frontal attachment for wheelchairs
